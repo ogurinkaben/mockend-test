@@ -1,8 +1,10 @@
 
 {
   "Platform": {
-    "cover": {
-      "regexp": "https://source.unsplash.com/featured/512x512"
+    "cover_image": {
+     "string": [
+        "https://source.unsplash.com/featured/512x512",      
+      ]
     },
     "title": {
       "loremWords": {
@@ -10,13 +12,13 @@
         "maxLength": 20
       }
     },
-    "body": {
+    "description": {
       "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
+        "minLength": 400,
+        "maxLength": 800
       }
     },
-    "tag": {
+    "category": {
       "string": [
         "attractions",
         "activities",
@@ -25,7 +27,7 @@
         "restaurants"
       ]
     },
-    "isDraft": {
+    "isFeatured": {
       "boolean": {}
     },
     "createdAt": {
