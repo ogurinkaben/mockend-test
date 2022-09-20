@@ -2,7 +2,7 @@
 {
   "Platform": {
     "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+      "regexp": "https://source.unsplash.com/featured/512x512"
     },
     "title": {
       "loremWords": {
