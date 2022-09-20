@@ -1,6 +1,6 @@
 
 {
-  "Post": {
+  "Platform": {
     "cover": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     },
@@ -18,9 +18,11 @@
     },
     "tag": {
       "string": [
-        "one",
-        "two",
-        "three"
+        "attractions",
+        "activities",
+        "experiences",
+        "hotels",
+        "restaurants",
       ]
     },
     "isDraft": {
