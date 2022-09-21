@@ -24,7 +24,8 @@
         "activities",
         "experiences",
         "hotels",
-        "restaurants"
+        "restaurants",
+        "events"
       ]
     },
     "isFeatured": {
